@@ -1,0 +1,8 @@
+{
+  "Post": {
+    "email": "string",
+    "org": "string",
+    "password": "string"
+  }
+}
+
